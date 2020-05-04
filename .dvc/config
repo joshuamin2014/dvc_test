@@ -1,0 +1,4 @@
+[core]
+    remote = data
+['remote "data"']
+    url = C:\Users\ledo7001\dvc_test_remote
